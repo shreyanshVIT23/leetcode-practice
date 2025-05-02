@@ -39,7 +39,7 @@ def main():
             num = fn.split('_')[0]
             if title and url:
                 md_body.append(
-                    f"- **{num}. [{title}]({url})** ([code]({path}))\n")
+                    f"- **{num}. [{title}]({url})** ([code]({path.replace(os.sep, '/')}))\n")
         md_body.append('\n')
     full = TEMPLATE.format(body=''.join(md_body))
     with open('README.md', 'w') as f:
