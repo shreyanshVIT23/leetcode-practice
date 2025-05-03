@@ -18,4 +18,9 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
 - **02. [507. Perfect Number](https://leetcode.com/problems/perfect-number/)** ([code](solutions/day3/02_PerfectNumber.py))
 
+## Day4
+- **01. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ([code](solutions/day4/01_CycleLinkedList.py))
+- **02. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ([code](solutions/day4/02_PalindromeInteger.py))
+- **03. [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)** ([code](solutions/day4/03_DominoesFlip.py))
+
 
