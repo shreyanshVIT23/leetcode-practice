@@ -23,4 +23,8 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **02. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ([code](solutions/day4/02_PalindromeInteger.py))
 - **03. [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)** ([code](solutions/day4/03_DominoesFlip.py))
 
+## Day5
+- **01. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)** ([code](solutions/day5/01_PalindromeLinkedList.py))
+- **02. [367. Valid Pefect Square](https://leetcode.com/problems/valid-perfect-square/)** ([code](solutions/day5/02_ValidPerfectSquare.py))
+
 
