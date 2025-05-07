@@ -32,6 +32,10 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **02. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)** ([code](solutions/day6/02_RemoveLinkedListElement.py))
 - **R02. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)** ([code](solutions/day6/R02_RemoveLinkedListElement.py))
 
+## Day8
+- **01. [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)** ([code](solutions/day8/01_OddEvenLinkedList.py))
+- **02. [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/)** ([code](solutions/day8/02_ExcelSheetColumnNumber.py))
+
 ## Days7
 - **01. [66. Plus One](https://leetcode.com/problems/plus-one/)** ([code](solutions/days7/01_PlusOne.py))
 - **02. [61. Rotate List](https://leetcode.com/problems/rotate-list/description/)** ([code](solutions/days7/02_RotateList.py))
