@@ -10,6 +10,10 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)** ([code](solutions/day1/01_ReverseLinkedList.py))
 - **02. [268. Missing Number](https://leetcode.com/problems/missing-number/)** ([code](solutions/day1/02_MissingNumber.py))
 
+## Day10
+- **01. [2095. Delete Middle Node in a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)** ([code](solutions/day10/01_DeleteMiddleNode.py))
+- **02. [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)** ([code](solutions/day10/02_BulbSwitcher.py))
+
 ## Day2
 - **01. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)** ([code](solutions/day2/01_MiddleOfLinkedList.py))
 - **02. [258. Add Digits](https://leetcode.com/problems/add-digits/)** ([code](solutions/day2/02_AddDigits.py))
