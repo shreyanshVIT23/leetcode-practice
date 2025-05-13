@@ -14,6 +14,22 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [2095. Delete Middle Node in a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)** ([code](solutions/day10/01_DeleteMiddleNode.py))
 - **02. [319. Bulb Switcher](https://leetcode.com/problems/bulb-switcher/description/)** ([code](solutions/day10/02_BulbSwitcher.py))
 
+## Day11
+- **01. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)** ([code](solutions/day11/01_RemoveNthNodeFromEndOfList.py))
+- **02. [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)** ([code](solutions/day11/02_FactorialTrailingZeroes.py))
+
+## Day12
+- **01. [2807. Insert Greatest Common Divisor in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)** ([code](solutions/day12/01_InsertGreatedCommonDivisorInLinkedList.py))
+- **02. [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)** ([code](solutions/day12/02_CountOddNumberInIntervalRange.py))
+
+## Day13
+- **01. [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)** ([code](solutions/day13/01_RemovedDuplicatesFromSortedList.py))
+- **02. [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)** ([code](solutions/day13/02_SignOfProductOfArray.py))
+
+## Day14
+- **01. [86. Partition List](https://leetcode.com/problems/partition-list/description/)** ([code](solutions/day14/01_PatitionList.py))
+- **02. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)** ([code](solutions/day14/02_ReverseInteger.py))
+
 ## Day2
 - **01. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)** ([code](solutions/day2/01_MiddleOfLinkedList.py))
 - **02. [258. Add Digits](https://leetcode.com/problems/add-digits/)** ([code](solutions/day2/02_AddDigits.py))
@@ -34,7 +50,6 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 ## Day6
 - **01. [202. Happy Number](https://leetcode.com/problems/happy-number/description/)** ([code](solutions/day6/01_HappyNumber.py))
 - **02. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)** ([code](solutions/day6/02_RemoveLinkedListElement.py))
-- **R02. [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)** ([code](solutions/day6/R02_RemoveLinkedListElement.py))
 
 ## Day8
 - **01. [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)** ([code](solutions/day8/01_OddEvenLinkedList.py))
@@ -42,6 +57,7 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 
 ## Day9
 - **01. [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)** ([code](solutions/day9/01_SwapNodesLinkedList.py))
+- **02. [400. Nth Digit](https://leetcode.com/problems/nth-digit/description/)** ([code](solutions/day9/02_NthDigit.py))
 
 ## Days7
 - **01. [66. Plus One](https://leetcode.com/problems/plus-one/)** ([code](solutions/days7/01_PlusOne.py))
