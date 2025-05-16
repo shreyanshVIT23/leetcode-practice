@@ -30,6 +30,10 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [86. Partition List](https://leetcode.com/problems/partition-list/description/)** ([code](solutions/day14/01_PatitionList.py))
 - **02. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)** ([code](solutions/day14/02_ReverseInteger.py))
 
+## Day15
+- **01. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)** ([code](solutions/day15/01_AddTwoNumbers.py))
+- **02. [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)** ([code](solutions/day15/02_ExcelSheetColumnTitle.py))
+
 ## Day2
 - **01. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)** ([code](solutions/day2/01_MiddleOfLinkedList.py))
 - **02. [258. Add Digits](https://leetcode.com/problems/add-digits/)** ([code](solutions/day2/02_AddDigits.py))
