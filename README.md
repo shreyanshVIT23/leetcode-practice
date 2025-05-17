@@ -34,6 +34,14 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)** ([code](solutions/day15/01_AddTwoNumbers.py))
 - **02. [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)** ([code](solutions/day15/02_ExcelSheetColumnTitle.py))
 
+## Day16
+- **01. [237. Delete Node In a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)** ([code](solutions/day16/01_DeleteNodeOfLinkedList.py))
+- **02. [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)** ([code](solutions/day16/02_SumOfSquareNumber.py))
+
+## Day17
+- **01. [155. Min Stack](https://leetcode.com/problems/min-stack/)** ([code](solutions/day17/01_MinStack.py))
+- **02. [1. Two Sum](https://leetcode.com/problems/two-sum/description/)** ([code](solutions/day17/02_TwoSum.py))
+
 ## Day2
 - **01. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)** ([code](solutions/day2/01_MiddleOfLinkedList.py))
 - **02. [258. Add Digits](https://leetcode.com/problems/add-digits/)** ([code](solutions/day2/02_AddDigits.py))
