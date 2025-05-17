@@ -42,6 +42,10 @@ My LinkedIn profile: [LinkedIn](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [155. Min Stack](https://leetcode.com/problems/min-stack/)** ([code](solutions/day17/01_MinStack.py))
 - **02. [1. Two Sum](https://leetcode.com/problems/two-sum/description/)** ([code](solutions/day17/02_TwoSum.py))
 
+## Day18
+- **01. [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)** ([code](solutions/day18/01_ImplementQueueUsingStacks.py))
+- **02. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)** ([code](solutions/day18/02_ContainsDuplicate.py))
+
 ## Day2
 - **01. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)** ([code](solutions/day2/01_MiddleOfLinkedList.py))
 - **02. [258. Add Digits](https://leetcode.com/problems/add-digits/)** ([code](solutions/day2/02_AddDigits.py))
