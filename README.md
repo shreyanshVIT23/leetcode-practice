@@ -57,6 +57,10 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)** ([code](solutions/day20/01_FindGreatestCommonDivisorOfArray.py))
 - **02. [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)** ([code](solutions/day20/02_EvaluateReversePolishNotation.py))
 
+## Day21
+- **01. [1249. Minimum Remove To Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)** ([code](solutions/day21/01_MinimumRemoveToMakeValidParanthesis.py))
+- **02. [169. Majority Element](https://leetcode.com/problems/majority-element/)** ([code](solutions/day21/02_MajorityElement.py))
+
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
 - **02. [507. Perfect Number](https://leetcode.com/problems/perfect-number/)** ([code](solutions/day3/02_PerfectNumber.py))
