@@ -58,8 +58,20 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **02. [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)** ([code](solutions/day20/02_EvaluateReversePolishNotation.py))
 
 ## Day21
-- **01. [1249. Minimum Remove To Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)** ([code](solutions/day21/01_MinimumRemoveToMakeValidParanthesis.py))
-- **02. [169. Majority Element](https://leetcode.com/problems/majority-element/)** ([code](solutions/day21/02_MajorityElement.py))
+- **01. [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)** ([code](solutions/day21/01_Pascal'sTriangleII.py))
+- **02. [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)** ([code](solutions/day21/02_ValidPranthesisString.py))
+
+## Day22
+- **01. [1249. Minimum Remove To Make Valid Paranthesis](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)** ([code](solutions/day22/01_MinimumRemoveToMakeValidParanthesis.py))
+- **02. [169. Majority Element](https://leetcode.com/problems/majority-element/)** ([code](solutions/day22/02_MajorityElement.py))
+
+## Day23
+- **01. [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)** ([code](solutions/day23/01_LongestValidParanthesis.py))
+- **02. [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)** ([code](solutions/day23/02_SearchInsertPosition.py))
+
+## Day24
+- **01. [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)** ([code](solutions/day24/01_BasicCalculator.py))
+- **02. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)** ([code](solutions/day24/02_MoveZeroes.py))
 
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
