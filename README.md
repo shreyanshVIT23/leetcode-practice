@@ -73,6 +73,14 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)** ([code](solutions/day24/01_BasicCalculator.py))
 - **02. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)** ([code](solutions/day24/02_MoveZeroes.py))
 
+## Day25
+- **01. [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)** ([code](solutions/day25/01_MoveArray.py))
+- **02. [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)** ([code](solutions/day25/02_ImplementStackUsingQueues.py))
+
+## Day26
+- **01. [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)** ([code](solutions/day26/01_BinaryTreeInorderTraversal.py))
+- **02. [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)** ([code](solutions/day26/02_FindFirstAndLastLocationOfElementInASortedArray.py))
+
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
 - **02. [507. Perfect Number](https://leetcode.com/problems/perfect-number/)** ([code](solutions/day3/02_PerfectNumber.py))
