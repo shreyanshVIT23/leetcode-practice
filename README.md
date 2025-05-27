@@ -81,6 +81,10 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)** ([code](solutions/day26/01_BinaryTreeInorderTraversal.py))
 - **02. [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)** ([code](solutions/day26/02_FindFirstAndLastLocationOfElementInASortedArray.py))
 
+## Day27
+- **01. [112. Path Sum](https://leetcode.com/problems/path-sum/description/)** ([code](solutions/day27/01_SumPath.py))
+- **02. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)** ([code](solutions/day27/02_MaximumSubArray.py))
+
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
 - **02. [507. Perfect Number](https://leetcode.com/problems/perfect-number/)** ([code](solutions/day3/02_PerfectNumber.py))
