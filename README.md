@@ -89,6 +89,10 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)** ([code](solutions/day28/01_MinimumDepthOfBinaryTree.py))
 - **02. [2470. Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/description/)** ([code](solutions/day28/02_NumberOfSubarraysWithLCMEqualToK.py))
 
+## Day29
+- **01. [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)** ([code](solutions/day29/01_DiameterOfBinaryTree.py))
+- **02FindTheDuplicateNumber.py. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)** ([code](solutions/day29/02FindTheDuplicateNumber.py))
+
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
 - **02. [507. Perfect Number](https://leetcode.com/problems/perfect-number/)** ([code](solutions/day3/02_PerfectNumber.py))
