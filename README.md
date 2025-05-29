@@ -85,6 +85,10 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [112. Path Sum](https://leetcode.com/problems/path-sum/description/)** ([code](solutions/day27/01_SumPath.py))
 - **02. [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)** ([code](solutions/day27/02_MaximumSubArray.py))
 
+## Day28
+- **01. [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)** ([code](solutions/day28/01_MinimumDepthOfBinaryTree.py))
+- **02. [2470. Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/description/)** ([code](solutions/day28/02_NumberOfSubarraysWithLCMEqualToK.py))
+
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
 - **02. [507. Perfect Number](https://leetcode.com/problems/perfect-number/)** ([code](solutions/day3/02_PerfectNumber.py))
