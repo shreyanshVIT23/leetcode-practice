@@ -91,7 +91,7 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 
 ## Day29
 - **01. [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)** ([code](solutions/day29/01_DiameterOfBinaryTree.py))
-- **02FindTheDuplicateNumber.py. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)** ([code](solutions/day29/02FindTheDuplicateNumber.py))
+- **02. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)** ([code](solutions/day29/02_FindTheDuplicateNumber.py))
 
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
