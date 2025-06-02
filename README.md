@@ -90,16 +90,24 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **02. [2470. Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/description/)** ([code](solutions/day28/02_NumberOfSubarraysWithLCMEqualToK.py))
 
 ## Day29
-- **01. [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)** ([code](solutions/day29/01_DiameterOfBinaryTree.py))
-- **02. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)** ([code](solutions/day29/02_FindTheDuplicateNumber.py))
+- **01. [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)** ([code](solutions/day29/01_SumOfLeftLeaves.py))
+- **02. [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)** ([code](solutions/day29/02_KthLargestElementInArray.py))
 
 ## Day3
 - **01. [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ([code](solutions/day3/01_MergingLinkedList.py))
 - **02. [507. Perfect Number](https://leetcode.com/problems/perfect-number/)** ([code](solutions/day3/02_PerfectNumber.py))
 
 ## Day30
-- **01. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)** ([code](solutions/day30/01_MaximumDepthOfBinaryTree.py))
-- **02. [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)** ([code](solutions/day30/02_FlippingAnImage.py))
+- **01. [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)** ([code](solutions/day30/01_DiameterOfBinaryTree.py))
+- **02. [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)** ([code](solutions/day30/02_FindTheDuplicateNumber.py))
+
+## Day31
+- **01. [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)** ([code](solutions/day31/01_MaximumDepthOfBinaryTree.py))
+- **02. [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)** ([code](solutions/day31/02_FlippingAnImage.py))
+
+## Day32
+- **01. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)** ([code](solutions/day32/01_BinaryTreeLevelOrderTraversal.py))
+- **02. [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)** ([code](solutions/day32/02_RotateImage.py))
 
 ## Day4
 - **01. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ([code](solutions/day4/01_CycleLinkedList.py))
