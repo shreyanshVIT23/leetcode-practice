@@ -109,6 +109,14 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)** ([code](solutions/day32/01_BinaryTreeLevelOrderTraversal.py))
 - **02. [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)** ([code](solutions/day32/02_RotateImage.py))
 
+## Day33
+- **01. [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)** ([code](solutions/day33/01_BinaryTreeRightSideView.py))
+- **02. [2697. Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/)** ([code](solutions/day33/02_LexicographicallySmallestPalindrome.py))
+
+## Day34
+- **01. [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)** ([code](solutions/day34/01_FlattenBinaryTreeToLinkedList.py))
+- **02. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)** ([code](solutions/day34/02_LengthOfLastWord.py))
+
 ## Day4
 - **01. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ([code](solutions/day4/01_CycleLinkedList.py))
 - **02. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ([code](solutions/day4/02_PalindromeInteger.py))
