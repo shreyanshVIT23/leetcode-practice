@@ -117,6 +117,10 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)** ([code](solutions/day34/01_FlattenBinaryTreeToLinkedList.py))
 - **02. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)** ([code](solutions/day34/02_LengthOfLastWord.py))
 
+## Day35
+- **01. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)** ([code](solutions/day35/01_LCAOfBinaryTree.py))
+- **02. [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)** ([code](solutions/day35/02_NumberOfSegmentsOfString.py))
+
 ## Day4
 - **01. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ([code](solutions/day4/01_CycleLinkedList.py))
 - **02. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ([code](solutions/day4/02_PalindromeInteger.py))
