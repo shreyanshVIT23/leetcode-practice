@@ -121,6 +121,10 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)** ([code](solutions/day35/01_LCAOfBinaryTree.py))
 - **02. [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)** ([code](solutions/day35/02_NumberOfSegmentsOfString.py))
 
+## Day36
+- **01. [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)** ([code](solutions/day36/01_SumRootToLeafNumbers.py))
+- **02. [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)** ([code](solutions/day36/02_ReverseVowelsOfAString.py))
+
 ## Day4
 - **01. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ([code](solutions/day4/01_CycleLinkedList.py))
 - **02. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ([code](solutions/day4/02_PalindromeInteger.py))
