@@ -128,6 +128,14 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 ## Day37
 - **02. [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)** ([code](solutions/day37/02_FirstPalindromeStringInArray.py))
 
+## Day38
+- **01. [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)** ([code](solutions/day38/01_SearchBinaryTree.py))
+- **02. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)** ([code](solutions/day38/02_ValidPalindrome.py))
+
+## Day39
+- **01. [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)** ([code](solutions/day39/01_InsertInBinaryTree.py))
+- **02. [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)** ([code](solutions/day39/02_RemoveAdjacentDuplicatesInString.py))
+
 ## Day4
 - **01. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ([code](solutions/day4/01_CycleLinkedList.py))
 - **02. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ([code](solutions/day4/02_PalindromeInteger.py))
