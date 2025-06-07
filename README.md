@@ -125,6 +125,9 @@ My LeetCode profile: [LeetCode](https://leetcode.com/u/shreyanshVIT23/).
 - **01. [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)** ([code](solutions/day36/01_SumRootToLeafNumbers.py))
 - **02. [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)** ([code](solutions/day36/02_ReverseVowelsOfAString.py))
 
+## Day37
+- **02. [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)** ([code](solutions/day37/02_FirstPalindromeStringInArray.py))
+
 ## Day4
 - **01. [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ([code](solutions/day4/01_CycleLinkedList.py))
 - **02. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ([code](solutions/day4/02_PalindromeInteger.py))
